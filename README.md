@@ -1,20 +1,12 @@
 # P2P Car Rental Marketplace 
 
-A premium Peer-to-Peer car rental application built with React Native and Expo. This platform connects car owners with renters in a seamless, secure, and beautiful mobile experience.
-This is in it's very early development stages with otp, and other login services disabled. Also live location and manually navigating feature is yet to be figured out.
-You can enter the site by putting number as 9876543210 and otp as 543210
+* A premium Peer-to-Peer car rental application built with React Native and Expo. This platform connects car owners with renters in a seamless, secure, and beautiful mobile experience.
+* This is in it's very early development stages with otp, and other login services disabled. Also live location and manually navigating feature is yet to be figured out.
+* You can enter the site by putting number as 9876543210 and otp as 543210
 
-![Home Screen - Dark Mode](C:/Users/soham/.gemini/antigravity/brain/cd3d3d58-a8c6-4b5d-8303-11ed1f56e0ce/home_screen_dark_1768462756217.png)
+---
 
-## 🌙 Premium Dark Theme (Night Mode)
-
-The application features a "Midnight Blue" dark theme designed for eye comfort and a premium aesthetic.
-
-![Car Detail - Dark Mode](C:/Users/soham/.gemini/antigravity/brain/cd3d3d58-a8c6-4b5d-8303-11ed1f56e0ce/car_detail_dark_1768462778811.png)
-
-![Booking Screen - Dark Mode](C:/Users/soham/.gemini/antigravity/brain/cd3d3d58-a8c6-4b5d-8303-11ed1f56e0ce/booking_screen_dark_1768462805626.png)
-
-## 🎥 Dark Mode Walkthrough
+##  Dark Mode Walkthrough
 
 Watch the full user flow in our new Premium Dark Mode:
 
@@ -22,7 +14,7 @@ Watch the full user flow in our new Premium Dark Mode:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### For Renters
 *   **Smart Discovery**: Interactive map and category-based browsing (Sedan, SUV, Luxury).
@@ -36,7 +28,7 @@ Watch the full user flow in our new Premium Dark Mode:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 *   **Framework**: React Native with Expo
 *   **Language**: TypeScript
@@ -46,26 +38,7 @@ Watch the full user flow in our new Premium Dark Mode:
 
 ---
 
-## 🎨 Design System
-
-We built a custom design system from scratch to ensure a unique, premium feel.
-
-### Colors (Dark Mode Palette)
-*   **Background**: `#0B1121` (Midnight Blue)
-*   **Surface**: `#151E32` (Deep Navy)
-*   **Primary**: `#3B82F6` (Bright Blue)
-*   **Accent**: `#00D4AA` (Electric Teal)
-*   **Text Primary**: `#F1F5F9` (Off-white)
-*   **Text Secondary**: `#94A3B8` (Slate Gray)
-
-### Typography
-*   **Headings**: Bold, high-contrast system fonts (Inter/San Francisco).
-*   **Body**: Readable sizes with relaxed line heights for comfort.
-*   **Pixel Perfection**: All line heights are optimized for web and mobile rendering.
-
----
-
-## 🖱️ Interaction & Click Feedback
+## Interaction & Click Feedback
 
 The app includes sophisticated interactive elements verified in our walkthroughs:
 
@@ -76,7 +49,7 @@ The app includes sophisticated interactive elements verified in our walkthroughs
 
 ---
 
-## 🏁 Getting Started
+## Steps to start
 
 1.  **Clone the repository**:
     ```bash
@@ -103,7 +76,7 @@ The app includes sophisticated interactive elements verified in our walkthroughs
 
 ---
 
-## 📱 Folder Structure
+##  Folder Structure for better understanding
 
 ```
 p2p-car-rental/
