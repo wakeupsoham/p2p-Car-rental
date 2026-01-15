@@ -1,6 +1,8 @@
-# P2P Car Rental Marketplace 🚗
+# P2P Car Rental Marketplace 
 
 A premium Peer-to-Peer car rental application built with React Native and Expo. This platform connects car owners with renters in a seamless, secure, and beautiful mobile experience.
+This is in it's very early development stages with otp, and other login services disabled. Also live location and manually navigating feature is yet to be figured out.
+You can enter the site by putting number as 9876543210 and otp as 543210
 
 ![Home Screen - Dark Mode](C:/Users/soham/.gemini/antigravity/brain/cd3d3d58-a8c6-4b5d-8303-11ed1f56e0ce/home_screen_dark_1768462756217.png)
 
