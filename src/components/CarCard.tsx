@@ -158,7 +158,7 @@ const styles = StyleSheet.create({
         ...spacing.shadow.lg,
     },
     imageContainer: {
-        height: 160,
+        aspectRatio: 7 / 5,
         width: '100%',
         position: 'relative',
     },
