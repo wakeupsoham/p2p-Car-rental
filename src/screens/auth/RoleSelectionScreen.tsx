@@ -212,6 +212,7 @@ const styles = StyleSheet.create({
     featureText: {
         ...textStyles.bodySmall,
         color: colors.textSecondary,
+        flex: 1, // Ensure text wraps instead of pushing out
     },
     selectedIndicator: {
         position: 'absolute',

@@ -153,10 +153,6 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({ navigation }) => {
                             <Text style={styles.socialIcon}>G</Text>
                             <Text style={styles.socialText}>Google</Text>
                         </TouchableOpacity>
-                        <TouchableOpacity style={styles.socialButton}>
-                            <Text style={styles.socialIcon}>f</Text>
-                            <Text style={styles.socialText}>Facebook</Text>
-                        </TouchableOpacity>
                     </View>
 
                     {/* Terms */}
