@@ -6,14 +6,6 @@
 
 ---
 
-##  Dark Mode Walkthrough
-
-Watch the full user flow in our new Premium Dark Mode:
-
-![Dark Mode Demo](C:/Users/soham/.gemini/antigravity/brain/cd3d3d58-a8c6-4b5d-8303-11ed1f56e0ce/dark_mode_showcase_1768462691245.webp)
-
----
-
 ## Key Features
 
 ### For Renters
